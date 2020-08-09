@@ -3,11 +3,11 @@
 - 🔭 I’m currently working on Salesforce developer Platform Developer I Certification & personal projects! 
 - 🌱 I’m currently learning Lightning web components and design. 
 - 👯 I’m looking to collaborate on deployable apps in the Salesforce ecosystem.
-- 🤔 I’m looking for help with mentorship and supported learning. 
-- 💬 Ask me about Anything. 
+- 🤔 I’m looking for help with Salesforce Development mentorship and supported learning. 
+- 💬 Ask me about Anything! 
 - 📫 How to reach me: Twitter: @RealJarrod
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've been through the Panama Canal twice! 
+- ⚡ Fun fact: I've been through the Panama Canal twice as crew on a car carrier ship! 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=digitaltheorist&show_icons=true&theme=dracula)
 <!--
