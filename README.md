@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🔭 I’m currently working on Salesforce developer certification & personal projects! 
+- 🔭 I’m currently working on Salesforce developer Platform Developer I Certification & personal projects! 
 - 🌱 I’m currently learning Lightning web components and design. 
 - 👯 I’m looking to collaborate on deployable apps in the Salesforce ecosystem.
 - 🤔 I’m looking for help with mentorship and supported learning. 
